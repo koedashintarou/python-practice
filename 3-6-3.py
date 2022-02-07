@@ -1,0 +1,10 @@
+i = iter(range(1, 4))
+i
+
+next(i)
+
+next(i)
+
+next(i)
+
+next(i)

@@ -1,0 +1,4 @@
+﻿s = "This is a pen."
+s.replace("pen", "note")
+
+s

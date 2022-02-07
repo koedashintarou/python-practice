@@ -1,0 +1,5 @@
+﻿def mul_func(a ,b): return a * b
+
+mul_func(2, 3)
+
+mul_func
